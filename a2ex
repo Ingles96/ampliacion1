@@ -1,0 +1,5 @@
+$ial= new IA();
+$ial->setMapaCol(4);
+$ial->setMapaFil(3);
+$ial->setNaveHumana(,4,3);
+$ial->setNaveHumana(,3,2);
